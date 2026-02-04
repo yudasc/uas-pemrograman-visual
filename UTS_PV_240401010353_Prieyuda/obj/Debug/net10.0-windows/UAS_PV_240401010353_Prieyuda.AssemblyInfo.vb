@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("UAS_PV_240401010353_Prieyuda"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcd53a938570e48188e4237d799b447c1d0ef044"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+789499079b52c2e118da760f252c94590ee7fb8d"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("UAS_PV_240401010353_Prieyuda"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("UAS_PV_240401010353_Prieyuda"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

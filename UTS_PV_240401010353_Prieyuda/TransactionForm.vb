@@ -1,4 +1,8 @@
-﻿Public Class TransactionForm
+﻿Imports System.ComponentModel
+
+Public Class TransactionForm
+    <Browsable(False),
+     DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)>
     Public Property Products As List(Of ProductClass)
 
 

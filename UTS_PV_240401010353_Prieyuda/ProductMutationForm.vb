@@ -1,4 +1,8 @@
-﻿Public Class ProductMutationForm
+﻿Imports System.ComponentModel
+
+Public Class ProductMutationForm
+    <Browsable(False),
+     DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)>
     Public Property ResultProduct As ProductClass = Nothing
 
     Public Sub New(Optional product As ProductClass = Nothing)
