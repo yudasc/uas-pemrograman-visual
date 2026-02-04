@@ -135,7 +135,7 @@
                 Dim lines = IO.File.ReadAllLines(selectedFile)
 
 
-                ' skip headernya
+                ' skip headernya.
                 For i As Integer = 1 To lines.Length - 1
                     Dim parts = lines(i).Split(","c)
 
