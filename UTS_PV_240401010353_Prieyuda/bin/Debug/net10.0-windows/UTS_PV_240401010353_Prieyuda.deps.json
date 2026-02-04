@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "UTS_PV_240401010353_Prieyuda/1.0.0": {
+        "runtime": {
+          "UTS_PV_240401010353_Prieyuda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTS_PV_240401010353_Prieyuda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
